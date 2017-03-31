@@ -1,3 +1,6 @@
+# Based on: 
+https://github.com/blueimp/nightwatch
+
 # Nightwatch.js Dockerfile
 Dockerfile for [Nightwatch.js](http://nightwatchjs.org/).
 
